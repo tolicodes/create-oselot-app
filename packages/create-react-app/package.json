@@ -1,24 +1,24 @@
 {
-  "name": "create-react-app",
+  "name": "create-toli-app",
   "version": "1.5.2",
   "keywords": [
     "react"
   ],
-  "description": "Create React apps with no build configuration.",
-  "repository": "facebookincubator/create-react-app",
+  "description": "Create React App Fork that also installs a bunch of other usefull stuff",
+  "repository": "tolilcodes/create-oselot-app",
   "license": "MIT",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/tolicodes/create-oselot-app/issues"
   },
   "files": [
     "index.js",
     "createReactApp.js"
   ],
   "bin": {
-    "create-react-app": "./index.js"
+    "create-oselot-app": "./index.js"
   },
   "dependencies": {
     "chalk": "^1.1.1",
