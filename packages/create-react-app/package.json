@@ -1,11 +1,11 @@
 {
-  "name": "create-toli-app",
+  "name": "create-oselot-app",
   "version": "1.5.2",
   "keywords": [
     "react"
   ],
-  "description": "Create React App Fork that also installs a bunch of other usefull stuff",
-  "repository": "tolilcodes/create-oselot-app",
+  "description": "Create React App Fork that also installs a bunch of other useful stuff",
+  "repository": "tolicodes/create-oselot-app",
   "license": "MIT",
   "engines": {
     "node": ">=4"

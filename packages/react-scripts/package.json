@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "@tolicodes/react-scripts",
   "version": "1.1.4",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "tolicodes/create-oselot-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/tolicodes/create-oselot-app/issues"
   },
   "files": [
     "bin",
